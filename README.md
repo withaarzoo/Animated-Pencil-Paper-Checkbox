@@ -1,6 +1,6 @@
 # Pencil and Paper Checkbox
 
-This project consists of HTML, CSS, and JavaScript code to create a unique pencil and paper checkbox effect. The checkbox design mimics the appearance of a checkbox being filled in with a pencil, followed by the appearance of lines drawn on paper.
+This project consists of HTML, CSS, and JavaScript code to create a unique pencil and paper checkbox effect. The checkbox design mimics the appearance of a checkbox being filled in with a pencil, followed by the appearance of lines drawn on paper .
 
 ## Preview
 ![preview](https://github.com/withaarzoo/Animated-Pencil-Paper-Checkbox/assets/59678435/40ea6f7e-f248-49c2-915b-d2deb549fd61)
